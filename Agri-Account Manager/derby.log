@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Sep 13 23:51:19 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-0174-88b3-2ed9-000004f16668 
+on database directory E:\Derby Database\Agriculture Database\AgriDB_test with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1d56ce6a 
+Loaded from file:/E:/Derby%20Database/db-derby-10.13.1.1-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=12.0.1+12
+user.dir=E:\Practice\Learning\Agri-Account Manager
+os.name=Windows 8.1
+os.arch=amd64
+os.version=6.3
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
